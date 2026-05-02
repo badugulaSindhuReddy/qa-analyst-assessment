@@ -24,5 +24,6 @@ The tests verify basic API behavior like status codes, response structure, and d
 ## How to Run
 Install dependencies:
   pip install pytest requests
+  
 Running the code:
   pytest test_api.py -v
